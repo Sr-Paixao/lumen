@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    min-height: 100%;
+    background-color: #f0f7fa;
+  }
+  
+  #root {
+    min-height: 100%;
+  }
+  
+  /* Adicione este estilo se estiver usando Create React App e o elemento raiz tiver o id 'root' */
+  

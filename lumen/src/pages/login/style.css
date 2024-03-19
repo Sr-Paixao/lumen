@@ -1,0 +1,38 @@
+.gradient{
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(121,9,113,1) 51%, rgba(0,236,255,1) 100%);
+}
+
+
+head{
+    background-color: black;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    flex: auto;
+    margin: auto;
+};
+
+.divLogin{
+    margin-top: 10%;
+    
+}
+
+.Titulo{
+    color: #fff;
+    margin-top: 10px;
+
+};
+
+.login-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
